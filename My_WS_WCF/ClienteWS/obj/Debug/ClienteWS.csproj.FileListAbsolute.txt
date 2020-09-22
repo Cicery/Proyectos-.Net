@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Cicery\Capacitaciones-C-\My_WS_WCF\ClienteWS\bin\Debug\ClienteWS.exe.config
+C:\Users\HP\source\repos\Cicery\Capacitaciones-C-\My_WS_WCF\ClienteWS\bin\Debug\ClienteWS.exe
+C:\Users\HP\source\repos\Cicery\Capacitaciones-C-\My_WS_WCF\ClienteWS\bin\Debug\ClienteWS.pdb
+C:\Users\HP\source\repos\Cicery\Capacitaciones-C-\My_WS_WCF\ClienteWS\obj\Debug\ClienteWS.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Cicery\Capacitaciones-C-\My_WS_WCF\ClienteWS\obj\Debug\ClienteWS.Form1.resources
+C:\Users\HP\source\repos\Cicery\Capacitaciones-C-\My_WS_WCF\ClienteWS\obj\Debug\ClienteWS.Properties.Resources.resources
+C:\Users\HP\source\repos\Cicery\Capacitaciones-C-\My_WS_WCF\ClienteWS\obj\Debug\ClienteWS.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Cicery\Capacitaciones-C-\My_WS_WCF\ClienteWS\obj\Debug\ClienteWS.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Cicery\Capacitaciones-C-\My_WS_WCF\ClienteWS\obj\Debug\ClienteWS.exe
+C:\Users\HP\source\repos\Cicery\Capacitaciones-C-\My_WS_WCF\ClienteWS\obj\Debug\ClienteWS.pdb

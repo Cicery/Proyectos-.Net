@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Cicery\Capacitaciones-C-\My_WS_WCF\My_WS_WCF\obj\Debug\My_WS_WCF.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Cicery\Capacitaciones-C-\My_WS_WCF\My_WS_WCF\obj\Debug\My_WS_WCF.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Cicery\Capacitaciones-C-\My_WS_WCF\My_WS_WCF\bin\My_WS_WCF.dll.config
+C:\Users\HP\source\repos\Cicery\Capacitaciones-C-\My_WS_WCF\My_WS_WCF\bin\My_WS_WCF.dll
+C:\Users\HP\source\repos\Cicery\Capacitaciones-C-\My_WS_WCF\My_WS_WCF\bin\My_WS_WCF.pdb
+C:\Users\HP\source\repos\Cicery\Capacitaciones-C-\My_WS_WCF\My_WS_WCF\obj\Debug\My_WS_WCF.dll
+C:\Users\HP\source\repos\Cicery\Capacitaciones-C-\My_WS_WCF\My_WS_WCF\obj\Debug\My_WS_WCF.pdb
