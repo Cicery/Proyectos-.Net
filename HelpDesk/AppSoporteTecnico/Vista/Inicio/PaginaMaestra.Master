@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PaginaMaestra.Master.cs" Inherits="AppSoporteTecnico.Vista.PaginaMestra" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/all.css" 
+    integrity="sha384-/rXc/GQVaYpyDdyxK+ecHPVYJSN9bmVFBvjA/9eOB+pb3F2w2N6fc5qB9Ew5yIns" crossorigin="anonymous">
+   
+        <link href="../../Recursos/bootstrap/css/bootstrap.css" rel="stylesheet" />
+        <link href="../../Recursos/bootstrap/css/style.css" rel="stylesheet" />
+        <script src="../Recursos/jquery/external/jquery/jquery.js"></script>
+        <script src="../Recursos/jquery/jquery-ui.min.js"></script>
+        <script src="../Recursos/bootstrap/js/bootstrap.min.js"></script>
+    </asp:ContentPlaceHolder>
+
+</head>
+
+    
+<body>
+    <form id="form1" runat="server">
+      <div>
+            <header>
+                <% Response.WriteFile("Encabezado.aspx");%>
+            </header>
+         <nav>
+                <% Response.WriteFile("Menu.aspx");%>
+
+         </nav>
+            <section style="min-height:350px;">
+                <asp:ContentPlaceHolder ID="c1" runat="server">
+                </asp:ContentPlaceHolder>
+            </section>
+            <footer class="card-footer" style=" bottom:0px; width:100%; text-align:center">
+            <p>  © 2018 Help Desk. All rights reserved.</p>
+            </footer>
+        </div>
+    </form>
+</body>
+
+</html>
