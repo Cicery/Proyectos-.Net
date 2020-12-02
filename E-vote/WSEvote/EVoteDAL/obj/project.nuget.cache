@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GKB0dUvOEgP/0HhOj569D/HdvnIRyD7NY/reUbw2E2d99jrqTBi54i2MvWtmcwV10Sw/VX0Th4aNS+oM5A+N8g==",
+  "success": true,
+  "projectFilePath": "D:\\MyRepos\\Proyectos-.Net\\E-vote\\WSEvote\\EVoteDAL\\EVoteDAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
